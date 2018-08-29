@@ -1,0 +1,54 @@
+Busca Regressiva
+
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llllll}
+Problema     & Número de Proposições & Número de Ações & Tamanho do Plano & Profundidade Alcançada & Tempo \\
+Logistics-04 & 48                    & 78              & 20               & 20                     & 1,648 \\
+Logistics-06 & 48                    & 78              & 25               & 25                     & 1,570 \\
+Logistics-08 & 99                    & 171             & 31               & 25                     & -     \\
+Logistics-10 & 168                   & 308             & 48               & 10                     & -     \\
+Logistics-12 & 168                   & 308             & 43               & 11                     & -     \\
+Logistics-14 & 275                   & 648             & 58               & 6                      & -    
+\end{tabular}
+\end{table}
+
+----------------------------------------------------------------------------------------------------------------
+
+Busca Progressiva
+
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llllll}
+Problema     & Número de Proposições & Número de Ações & Tamanho do Plano & Profundidade Alcançada & Tempo    \\
+Logistics-04 & 48                    & 78              & 20               & 20                     & 0,937    \\
+Logistics-06 & 48                    & 78              & 25               & 25                     & 0,810    \\
+Logistics-08 & 99                    & 171             & 31               & 31                     & 3407,349 \\
+Logistics-10 & 168                   & 308             & 48               & 16                     & -        \\
+Logistics-12 & 168                   & 308             & 43               & 16                     & -        \\
+Logistics-14 & 275                   & 648             & 58               & 10                     & -       
+\end{tabular}
+\end{table}
+
+----------------------------------------------------------------------------------------------------------------
+
+Busca Bidirecional
+
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llllll}
+Problema     & Número de Proposições & Número de Ações & Tamanho do Plano & Profundidade Alcançada & Tempo   \\
+Logistics-04 & 48                    & 78              & 20               & 20                     & 0,713   \\
+Logistics-06 & 48                    & 78              & 25               & 25                     & 0,756   \\
+Logistics-08 & 99                    & 171             & 31               & 31                     & 381,492 \\
+Logistics-10 & 168                   & 308             & 48               & 23                     & -       \\
+Logistics-12 & 168                   & 308             & 43               & 24                     & -       \\
+Logistics-14 & 275                   & 648             & 58               & 15                     & -      
+\end{tabular}
+\end{table}

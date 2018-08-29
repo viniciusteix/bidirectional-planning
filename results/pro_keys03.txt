@@ -1,0 +1,11 @@
+keys3
+Progressive search
+0
+1
+2
+3
+4
+The problem is solvable.
+Progressive search
+keys3.txt~
+Tempo gasto: 2

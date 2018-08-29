@@ -1,0 +1,233 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Garbage collection #1: 90000049 nodes / 84239942 free / 5.434s / 5.434s total
+Resizing node table from 90000049 to 90050029
+18
+Garbage collection #2: 90050029 nodes / 82531514 free / 8.059s / 13.493s total
+Resizing node table from 90050029 to 90100009
+19
+Garbage collection #3: 90100009 nodes / 80927504 free / 7.444s / 20.937s total
+Resizing node table from 90100009 to 90150007
+20
+Garbage collection #4: 90150007 nodes / 79462111 free / 8.935s / 29.872s total
+Resizing node table from 90150007 to 90199999
+21
+Garbage collection #5: 90199999 nodes / 81583284 free / 8.79s / 38.662s total
+Resizing node table from 90199999 to 90249997
+Garbage collection #6: 90249997 nodes / 78115000 free / 9.051s / 47.713s total
+Resizing node table from 90249997 to 90299981
+22
+Garbage collection #7: 90299981 nodes / 78476363 free / 8.995s / 56.708s total
+Resizing node table from 90299981 to 90349979
+Garbage collection #8: 90349979 nodes / 76380756 free / 10.032s / 66.74s total
+Resizing node table from 90349979 to 90399979
+23
+Garbage collection #9: 90399979 nodes / 81536809 free / 7.787s / 74.527s total
+Resizing node table from 90399979 to 90449969
+Garbage collection #10: 90449969 nodes / 76252486 free / 12.41s / 86.937s total
+Resizing node table from 90449969 to 90499921
+Garbage collection #11: 90499921 nodes / 76381087 free / 10.904s / 97.841s total
+Resizing node table from 90499921 to 90549913
+24
+Garbage collection #12: 90549913 nodes / 76044584 free / 11.668s / 109.509s total
+Resizing node table from 90549913 to 90599911
+Garbage collection #13: 90599911 nodes / 74229019 free / 15.38s / 124.889s total
+Resizing node table from 90599911 to 90649907
+Garbage collection #14: 90649907 nodes / 75031463 free / 10.643s / 135.532s total
+Resizing node table from 90649907 to 90699899
+25
+Garbage collection #15: 90699899 nodes / 75343576 free / 9.809s / 145.341s total
+Resizing node table from 90699899 to 90749899
+Garbage collection #16: 90749899 nodes / 72755052 free / 12.498s / 157.839s total
+Resizing node table from 90749899 to 90799897
+Garbage collection #17: 90799897 nodes / 73724122 free / 12.741s / 170.58s total
+Resizing node table from 90799897 to 90849881
+26
+Garbage collection #18: 90849881 nodes / 77509697 free / 10.897s / 181.477s total
+Resizing node table from 90849881 to 90899881
+Garbage collection #19: 90899881 nodes / 74798713 free / 10.948s / 192.425s total
+Resizing node table from 90899881 to 90949879
+Garbage collection #20: 90949879 nodes / 71080929 free / 12.923s / 205.348s total
+Resizing node table from 90949879 to 90999859
+Garbage collection #21: 90999859 nodes / 74417232 free / 9.898s / 215.246s total
+Resizing node table from 90999859 to 91049839
+27
+Garbage collection #22: 91049839 nodes / 75200344 free / 10.667s / 225.913s total
+Resizing node table from 91049839 to 91099831
+Garbage collection #23: 91099831 nodes / 71330655 free / 14.284s / 240.197s total
+Resizing node table from 91099831 to 91149829
+Garbage collection #24: 91149829 nodes / 70557043 free / 9.175s / 249.372s total
+Resizing node table from 91149829 to 91199821
+28
+Garbage collection #25: 91199821 nodes / 81175399 free / 7.056s / 256.428s total
+Resizing node table from 91199821 to 91249817
+Garbage collection #26: 91249817 nodes / 74263854 free / 9.145s / 265.573s total
+Resizing node table from 91249817 to 91299799
+Garbage collection #27: 91299799 nodes / 71913330 free / 11.234s / 276.807s total
+Resizing node table from 91299799 to 91349779
+Garbage collection #28: 91349779 nodes / 72192747 free / 10.806s / 287.613s total
+Resizing node table from 91349779 to 91399753
+29
+Garbage collection #29: 91399753 nodes / 80221520 free / 8.15s / 295.763s total
+Resizing node table from 91399753 to 91449737
+Garbage collection #30: 91449737 nodes / 74311040 free / 9.732s / 305.495s total
+Resizing node table from 91449737 to 91499731
+Garbage collection #31: 91499731 nodes / 70910678 free / 9.325s / 314.82s total
+Resizing node table from 91499731 to 91549721
+Garbage collection #32: 91549721 nodes / 71709686 free / 9.112s / 323.932s total
+Resizing node table from 91549721 to 91599691
+30
+Garbage collection #33: 91599691 nodes / 79646359 free / 6.773s / 330.705s total
+Resizing node table from 91599691 to 91649689
+Garbage collection #34: 91649689 nodes / 74221392 free / 8.967s / 339.672s total
+Resizing node table from 91649689 to 91699687
+Garbage collection #35: 91699687 nodes / 72705835 free / 9.565s / 349.237s total
+Resizing node table from 91699687 to 91749653
+Garbage collection #36: 91749653 nodes / 70598116 free / 11.029s / 360.266s total
+Resizing node table from 91749653 to 91799639
+31
+Garbage collection #37: 91799639 nodes / 81872509 free / 7.478s / 367.744s total
+Resizing node table from 91799639 to 91849633
+Garbage collection #38: 91849633 nodes / 75671091 free / 8.848s / 376.592s total
+Resizing node table from 91849633 to 91899629
+Garbage collection #39: 91899629 nodes / 72467919 free / 9.373s / 385.965s total
+Resizing node table from 91899629 to 91949621
+Garbage collection #40: 91949621 nodes / 70556354 free / 12.761s / 398.726s total
+Resizing node table from 91949621 to 91999549
+32
+Garbage collection #41: 91999549 nodes / 83744327 free / 6.21s / 404.936s total
+Resizing node table from 91999549 to 92049533
+Garbage collection #42: 92049533 nodes / 76127800 free / 10.834s / 415.77s total
+Resizing node table from 92049533 to 92099477
+Garbage collection #43: 92099477 nodes / 73414441 free / 9.26s / 425.03s total
+Resizing node table from 92099477 to 92149459
+Garbage collection #44: 92149459 nodes / 71632624 free / 12.425s / 437.455s total
+Resizing node table from 92149459 to 92199427
+Garbage collection #45: 92199427 nodes / 75195115 free / 8.568s / 446.023s total
+Resizing node table from 92199427 to 92249413
+33
+Garbage collection #46: 92249413 nodes / 75911297 free / 10.542s / 456.565s total
+Resizing node table from 92249413 to 92299411
+Garbage collection #47: 92299411 nodes / 73915720 free / 9.197s / 465.762s total
+Resizing node table from 92299411 to 92349359
+Garbage collection #48: 92349359 nodes / 71938216 free / 9.862s / 475.624s total
+Resizing node table from 92349359 to 92399327
+Garbage collection #49: 92399327 nodes / 74319539 free / 11.531s / 487.155s total
+Resizing node table from 92399327 to 92449309
+34
+Garbage collection #50: 92449309 nodes / 77997187 free / 11.417s / 498.572s total
+Resizing node table from 92449309 to 92499301
+Garbage collection #51: 92499301 nodes / 74499573 free / 12.388s / 510.96s total
+Resizing node table from 92499301 to 92549293
+Garbage collection #52: 92549293 nodes / 73477194 free / 10.163s / 521.123s total
+Resizing node table from 92549293 to 92599237
+Garbage collection #53: 92599237 nodes / 75120012 free / 8.971s / 530.094s total
+Resizing node table from 92599237 to 92649233
+35
+Garbage collection #54: 92649233 nodes / 79305482 free / 8.537s / 538.631s total
+Resizing node table from 92649233 to 92699221
+Garbage collection #55: 92699221 nodes / 75587596 free / 10.274s / 548.905s total
+Resizing node table from 92699221 to 92749213
+Garbage collection #56: 92749213 nodes / 74645695 free / 9.652s / 558.557s total
+Resizing node table from 92749213 to 92799193
+Garbage collection #57: 92799193 nodes / 78775610 free / 9.809s / 568.366s total
+Resizing node table from 92799193 to 92849191
+36
+Garbage collection #58: 92849191 nodes / 78737873 free / 9.591s / 577.957s total
+Resizing node table from 92849191 to 92899171
+Garbage collection #59: 92899171 nodes / 77226367 free / 9.324s / 587.281s total
+Resizing node table from 92899171 to 92949169
+Garbage collection #60: 92949169 nodes / 76019560 free / 10.103s / 597.384s total
+Resizing node table from 92949169 to 92999131
+37
+Garbage collection #61: 92999131 nodes / 81988522 free / 8.47s / 605.854s total
+Resizing node table from 92999131 to 93049129
+Garbage collection #62: 93049129 nodes / 78334205 free / 10.973s / 616.827s total
+Resizing node table from 93049129 to 93099119
+Garbage collection #63: 93099119 nodes / 76545579 free / 9.726s / 626.553s total
+Resizing node table from 93099119 to 93149081
+38
+Garbage collection #64: 93149081 nodes / 87091001 free / 6.471s / 633.024s total
+Resizing node table from 93149081 to 93199081
+Garbage collection #65: 93199081 nodes / 80628868 free / 7.976s / 641.0s total
+Resizing node table from 93199081 to 93249077
+Garbage collection #66: 93249077 nodes / 77425210 free / 8.921s / 649.921s total
+Resizing node table from 93249077 to 93299071
+39
+Garbage collection #67: 93299071 nodes / 87055779 free / 6.565s / 656.486s total
+Resizing node table from 93299071 to 93349063
+Garbage collection #68: 93349063 nodes / 81207280 free / 8.813s / 665.299s total
+Resizing node table from 93349063 to 93399029
+Garbage collection #69: 93399029 nodes / 79395730 free / 8.55s / 673.849s total
+Resizing node table from 93399029 to 93449009
+40
+Garbage collection #70: 93449009 nodes / 85263782 free / 7.279s / 681.128s total
+Resizing node table from 93449009 to 93498991
+Garbage collection #71: 93498991 nodes / 81144617 free / 7.976s / 689.104s total
+Resizing node table from 93498991 to 93548963
+Garbage collection #72: 93548963 nodes / 81959995 free / 8.559s / 697.663s total
+Resizing node table from 93548963 to 93598961
+41
+Garbage collection #73: 93598961 nodes / 83637062 free / 7.109s / 704.772s total
+Resizing node table from 93598961 to 93648959
+Garbage collection #74: 93648959 nodes / 82961239 free / 7.347s / 712.119s total
+Resizing node table from 93648959 to 93698959
+42
+Garbage collection #75: 93698959 nodes / 85966458 free / 7.141s / 719.26s total
+Resizing node table from 93698959 to 93748937
+Garbage collection #76: 93748937 nodes / 84094076 free / 6.936s / 726.196s total
+Resizing node table from 93748937 to 93798931
+43
+Garbage collection #77: 93798931 nodes / 85518109 free / 6.837s / 733.033s total
+Resizing node table from 93798931 to 93848921
+44
+Garbage collection #78: 93848921 nodes / 89646928 free / 5.635s / 738.668s total
+Resizing node table from 93848921 to 93898901
+Garbage collection #79: 93898901 nodes / 86297183 free / 6.18s / 744.848s total
+Resizing node table from 93898901 to 93948847
+45
+Garbage collection #80: 93948847 nodes / 87359735 free / 6.279s / 751.127s total
+Resizing node table from 93948847 to 93998837
+46
+47
+Garbage collection #81: 93998837 nodes / 91974748 free / 4.718s / 755.845s total
+Resizing node table from 93998837 to 94048837
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+The problem is unsolvable.
+The excuses states are:
+<0:0, 1:0, 2:1, 3:0, 4:1, 5:0, 6:1, 7:0, 8:1, 9:0, 10:1, 11:0, 12:0, 13:0, 14:0, 15:0, 16:1, 17:0, 18:0, 19:0, 20:0, 21:0, 22:1, 23:0, 24:0, 25:0, 26:0, 27:0, 28:0, 29:0, 30:1, 31:0, 32:0, 33:0, 34:0, 35:0, 36:1, 37:0, 38:0, 39:0, 40:0, 41:0, 42:1, 43:0, 44:0, 45:0, 46:0, 47:0, 48:0, 49:0, 50:1, 51:0, 52:0, 53:0, 54:0, 55:0, 56:1, 57:0, 58:0, 59:0, 60:0, 61:0, 62:1, 63:0, 64:0, 65:0, 66:0, 67:0, 68:0, 69:0, 70:0, 71:0, 72:0, 73:0, 74:0, 75:0, 76:0, 77:0, 78:0, 79:0, 80:0, 81:0, 82:0, 83:0, 84:0, 85:0, 86:0, 87:0, 88:0, 89:0, 90:0, 91:0, 92:0, 93:0, 94:0, 95:0, 96:0, 97:0, 98:0><0:0, 1:0, 2:1, 3:1, 4:0, 5:0, 6:1, 7:0, 8:1, 9:0, 10:1, 11:0, 12:0, 13:0, 14:0, 15:0, 16:1, 17:0, 18:0, 19:0, 20:0, 21:0, 22:1, 23:0, 24:0, 25:0, 26:0, 27:0, 28:0, 29:0, 30:1, 31:0, 32:0, 33:0, 34:0, 35:0, 36:1, 37:0, 38:0, 39:0, 40:0, 41:0, 42:1, 43:0, 44:0, 45:0, 46:0, 47:0, 48:0, 49:0, 50:1, 51:0, 52:0, 53:0, 54:0, 55:0, 56:1, 57:0, 58:0, 59:0, 60:0, 61:0, 62:1, 63:0, 64:0, 65:0, 66:0, 67:0, 68:0, 69:0, 70:0, 71:0, 72:0, 73:0, 74:0, 75:0, 76:0, 77:0, 78:0, 79:0, 80:0, 81:0, 82:0, 83:0, 84:0, 85:0, 86:0, 87:0, 88:0, 89:0, 90:0, 91:0, 92:0, 93:0, 94:0, 95:0, 96:0, 97:0, 98:0>
+initial state is
+<0:0, 1:0, 2:1, 3:0, 4:0, 5:0, 6:1, 7:0, 8:1, 9:0, 10:1, 11:0, 12:0, 13:0, 14:0, 15:0, 16:1, 17:0, 18:0, 19:0, 20:0, 21:0, 22:1, 23:0, 24:0, 25:0, 26:0, 27:0, 28:0, 29:0, 30:1, 31:0, 32:0, 33:0, 34:0, 35:0, 36:1, 37:0, 38:0, 39:0, 40:0, 41:0, 42:1, 43:0, 44:0, 45:0, 46:0, 47:0, 48:0, 49:0, 50:1, 51:0, 52:0, 53:0, 54:0, 55:0, 56:1, 57:0, 58:0, 59:0, 60:0, 61:0, 62:1, 63:0, 64:0, 65:0, 66:0, 67:0, 68:0, 69:0, 70:0, 71:0, 72:0, 73:0, 74:0, 75:0, 76:0, 77:0, 78:0, 79:0, 80:0, 81:0, 82:0, 83:0, 84:0, 85:0, 86:0, 87:0, 88:0, 89:0, 90:0, 91:0, 92:0, 93:0, 94:0, 95:0, 96:0, 97:0, 98:0>
+[1]+  Done                    java -classpath .:javabdd-1.0b2.jar GUI ../LOGISTICS-8-0-GROUNDED.txt ritanen 9000000 90000
+
+real	907m38.586s
+user	841m1.688s
+sys	1m39.756s
+

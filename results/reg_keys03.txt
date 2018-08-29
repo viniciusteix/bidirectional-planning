@@ -1,0 +1,11 @@
+keys3
+Regressive search
+0
+1
+2
+3
+4
+The problem is solvable.
+Regressive search
+keys3.txt~
+Tempo gasto: 3

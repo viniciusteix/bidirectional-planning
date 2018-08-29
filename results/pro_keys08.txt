@@ -1,0 +1,7 @@
+keys8
+Progressive search
+0
+The problem is unsolvable.
+Progressive search
+keys8.txt~
+Tempo gasto: 2

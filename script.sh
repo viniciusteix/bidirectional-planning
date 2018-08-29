@@ -1,0 +1,62 @@
+#! /bin/sh
+java -Xms4098M -Xmx4098M -jar reg_logistic04.jar > results/reg_logistic04.txt
+java -Xms4098M -Xmx4098M -jar reg_logistic06.jar > results/reg_logistic06.txt
+java -Xms4098M -Xmx4098M -jar reg_logistic08.jar > results/reg_logistic08.txt
+java -Xms4098M -Xmx4098M -jar reg_logistic10.jar > results/reg_logistic10.txt
+java -Xms4098M -Xmx4098M -jar reg_logistic12.jar > results/reg_logistic12.txt
+java -Xms4098M -Xmx4098M -jar pro_logistic04.jar > results/pro_logistic04.txt
+java -Xms4098M -Xmx4098M -jar pro_logistic06.jar > results/pro_logistic06.txt
+java -Xms4098M -Xmx4098M -jar pro_logistic08.jar > results/pro_logistic08.txt
+java -Xms4098M -Xmx4098M -jar pro_logistic10.jar > results/pro_logistic10.txt
+java -Xms4098M -Xmx4098M -jar pro_logistic12.jar > results/pro_logistic12.txt
+java -Xms4098M -Xmx4098M -jar bid_logistic04.jar > results/bid_logistic04.txt
+java -Xms4098M -Xmx4098M -jar bid_logistic06.jar > results/bid_logistic06.txt
+java -Xms4098M -Xmx4098M -jar bid_logistic08.jar > results/bid_logistic08.txt
+java -Xms4098M -Xmx4098M -jar bid_logistic10.jar > results/bid_logistic10.txt
+java -Xms4098M -Xmx4098M -jar bid_logistic12.jar > results/bid_logistic12.txt
+
+java -Xms4098M -Xmx4098M -jar reg_rovers01.jar > results/reg_rovers01.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers02.jar > results/reg_rovers02.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers03.jar > results/reg_rovers03.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers04.jar > results/reg_rovers04.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers05.jar > results/reg_rovers05.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers06.jar > results/reg_rovers06.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers07.jar > results/reg_rovers07.txt
+java -Xms4098M -Xmx4098M -jar reg_rovers08.jar > results/reg_rovers08.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers01.jar > results/pro_rovers01.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers02.jar > results/pro_rovers02.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers03.jar > results/pro_rovers03.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers04.jar > results/pro_rovers04.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers05.jar > results/pro_rovers05.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers06.jar > results/pro_rovers06.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers07.jar > results/pro_rovers07.txt
+java -Xms4098M -Xmx4098M -jar pro_rovers08.jar > results/pro_rovers08.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers01.jar > results/bid_rovers01.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers02.jar > results/bid_rovers02.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers03.jar > results/bid_rovers03.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers04.jar > results/bid_rovers04.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers05.jar > results/bid_rovers05.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers06.jar > results/bid_rovers06.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers07.jar > results/bid_rovers07.txt
+java -Xms4098M -Xmx4098M -jar bid_rovers08.jar > results/bid_rovers08.txt
+
+java -Xms4098M -Xmx4098M -jar reg_keys03.jar > results/reg_keys03.txt
+java -Xms4098M -Xmx4098M -jar reg_keys04.jar > results/reg_keys04.txt
+java -Xms4098M -Xmx4098M -jar reg_keys05.jar > results/reg_keys05.txt
+java -Xms4098M -Xmx4098M -jar reg_keys06.jar > results/reg_keys06.txt
+java -Xms4098M -Xmx4098M -jar reg_keys07.jar > results/reg_keys07.txt
+java -Xms4098M -Xmx4098M -jar reg_keys08.jar > results/reg_keys08.txt
+java -Xms4098M -Xmx4098M -jar pro_keys03.jar > results/pro_keys03.txt
+java -Xms4098M -Xmx4098M -jar pro_keys04.jar > results/pro_keys04.txt
+java -Xms4098M -Xmx4098M -jar pro_keys05.jar > results/pro_keys05.txt
+java -Xms4098M -Xmx4098M -jar pro_keys06.jar > results/pro_keys06.txt
+java -Xms4098M -Xmx4098M -jar pro_keys07.jar > results/pro_keys07.txt
+java -Xms4098M -Xmx4098M -jar pro_keys08.jar > results/pro_keys08.txt
+java -Xms4098M -Xmx4098M -jar bid_keys03.jar > results/bid_keys03.txt
+java -Xms4098M -Xmx4098M -jar bid_keys04.jar > results/bid_keys04.txt
+java -Xms4098M -Xmx4098M -jar bid_keys05.jar > results/bid_keys05.txt
+java -Xms4098M -Xmx4098M -jar bid_keys06.jar > results/bid_keys06.txt
+java -Xms4098M -Xmx4098M -jar bid_keys07.jar > results/bid_keys07.txt
+java -Xms4098M -Xmx4098M -jar bid_keys08.jar > results/bid_keys08.txt
+
+exit

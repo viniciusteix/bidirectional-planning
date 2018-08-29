@@ -1,0 +1,11 @@
+keys3
+Bidirectional search
+0
+1
+2
+3
+4
+The problem is solvable.
+Bidirectional search
+keys3.txt~
+Tempo gasto: 2
